@@ -29,6 +29,11 @@ Example install path:
 npm exec --yes --package=seojeom-mcp seojeom-mcp -- --print-claude-onboarding
 ```
 
+## Product Docs
+
+- Desktop Project & Workbench PRD: `docs/desktop-project-workbench-prd.md`
+- Desktop Authoring & Review PRD: `docs/desktop-authoring-review-prd.md`
+
 ## Product Principles
 
 - Local-first: project state lives locally
